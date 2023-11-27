@@ -1,0 +1,16 @@
+{
+  "name": "goit-advancedjs-hw-05",
+  "version": "1.0.0",
+  "description": "1. Setting up and configuring the development environment\r 2. Compiler configuration\r 3. Debugging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@web/dev-server": "^0.4.1"
+  }
+}
